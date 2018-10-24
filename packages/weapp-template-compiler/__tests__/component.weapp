@@ -1,0 +1,19 @@
+<config lang="yml">
+  component: true
+</config>
+
+<template lang="pug">
+  view xxx
+</template>
+
+<script>
+Component({
+
+})
+</script>
+
+<style lang="postcss">
+body {
+  background: white;
+}
+</style>
